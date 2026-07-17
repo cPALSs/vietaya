@@ -11,7 +11,7 @@ Historical Mid-Autumn Festival web archives (pre-VietAYA **VAF** seasons and lat
 
 Source files also live on the archive Shared Drive under pre-VietAYA year folders:
 
-- `VAF 1997/Projects/Mid-Autumn Festival/Website/`
-- `VAF 1998/Projects/Mid-Autumn Festival/Website/`
+- `VAF 1997/1997 MAF/Website/`
+- `VAF 1998/1998 MAF/Website/`
 
 This folder (`Operations/Sites/vietaya`) is the edit surface for the [cPALSs/vietaya](https://github.com/cPALSs/vietaya) repo. Push from here to publish.
